@@ -1,0 +1,6 @@
+name "notifd"
+description "D desktop notification library"
+authors "Luna"
+copyright "Copyright © 2020, Luna"
+license "BSL-1.0"
+dependency "ddbus" version="~>2.3.0"
